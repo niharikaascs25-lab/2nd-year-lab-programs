@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1793592019 source:c:\users\admin\desktop\1wn25cs150\lab-4\queue.c
+	<stdlib.h>
+
+1793592019 source:c:\users\admin\desktop\1wn25cs150\lab-4\circular queue.c
+	<stdio.h>
+	<stdlib.h>
+
